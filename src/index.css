@@ -1,0 +1,19 @@
+.itinerary__info-header {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.itinerary__info-text {
+    font-size: .9em;
+    color: #888;
+}
+
+.itinerary__info-price {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.itinerary__info-logo {
+    height: 40px;
+    padding-right: 40px;
+}
