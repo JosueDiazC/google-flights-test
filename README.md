@@ -2,7 +2,9 @@
 
 ## Loom Video Walkthrough
 
-![Loom Video](https://www.loom.com/share/c8e9c40b8b944b8199ae9ee3df00bbbc?sid=bca45cba-3199-487f-a4b2-b1b2d0030186)
+<div align="center">
+  <iframe src="https://www.loom.com/embed/c8e9c40b8b944b8199ae9ee3df00bbbc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width: 100%; height: 500px;"></iframe>
+</div>
 
 ## Overview
 
