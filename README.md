@@ -4,9 +4,7 @@
 
 Watch the video below for code explanation and demo:
 
-<div align="center">
-  <iframe src="https://www.loom.com/embed/c8e9c40b8b944b8199ae9ee3df00bbbc" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="width: 100%; height: 500px;"></iframe>
-</div>
+[Watch the demo video on Loom](https://www.loom.com/share/c8e9c40b8b944b8199ae9ee3df00bbbc)
 
 ## Overview
 
