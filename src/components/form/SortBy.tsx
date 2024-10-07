@@ -38,7 +38,8 @@ export default function SortBy() {
         onChange={handleChange}
       >
         <MenuItem value="best">Best</MenuItem>
-        <MenuItem value="cheapest">Cheapest</MenuItem>
+        <MenuItem value="price_high">Price High</MenuItem>
+        <MenuItem value="price_low">Price Low</MenuItem>
         <MenuItem value="fastest">Fastest</MenuItem>
         <MenuItem value="outbound_take_off_time">
           Outbound Take-off Time
@@ -46,7 +47,6 @@ export default function SortBy() {
         <MenuItem value="outbound_landing_time">Outbound Landing Time</MenuItem>
         <MenuItem value="return_take_off_time">Return Take-off Time</MenuItem>
         <MenuItem value="return_landing_time">Return Landing Time</MenuItem>
-        <MenuItem value="">None</MenuItem>
       </Select>
     </FormControl>
   );

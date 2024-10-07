@@ -42,7 +42,8 @@ export type CabinClass =
 
 export type SortBy =
   | "best"
-  | "cheapest"
+  | "price_high"
+  | "price_low"
   | "fastest"
   | "outbound_take_off_time"
   | "outbound_landing_time"
