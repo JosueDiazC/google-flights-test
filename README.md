@@ -10,3 +10,7 @@ Watch the video below for code explanation and demo:
 
 This project implements a responsive version of Google Flight, created using React and Material UI. It leverages the Air Scraper API to fetch and display real-time flight data, offering users a smooth and intuitive interface to search for flights.
 
+## Results
+
+### 1. Best Flights
+![Fastest Flight](./results/best.png)
