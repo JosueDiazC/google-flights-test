@@ -15,7 +15,7 @@ This project implements a responsive version of Google Flight, created using Rea
 ### 1. Best Flights
 ![Fastest Flight](results/best.png)
 
-### 2. Cheapest Flights
+### 2. Desc Price Flights
 ![Fastest Flight](results/price_low.png)
 
 ### 3. Fastest Flights
